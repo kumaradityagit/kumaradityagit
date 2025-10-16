@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kumaradityagit
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Vanilla Javascript
+- 👋 Hi, I’m Kumar Aditya
+- 👀 I’m interested in Software Development and Web Development
+- 🌱 I’m proficient with MERN Stack
 - 💞️ I’m looking to collaborate on Similar Topics
 
 <!---
